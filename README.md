@@ -1,4 +1,5 @@
 # HTML-class
+bulding a webpage in html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" contant="width=device-width, initial-
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   #Green Clean
+    Green Clean
     <head>  
         <header>
             <nav>   
@@ -26,13 +27,21 @@
     </article>
     <article>
         <h1>Contact</h1>
-        <p>please make appointments through the main office located just on the corner. </p>
+        <p>Please make appointments through the main office located just on the corner. </p>
     </article>
       <article>
         <h1>Banking</h1>
-        <p>we utilize only the most trustworthy banks located in switzerland </p>
+        <p>We utilize only the most trustworthy banks located in switzerland. </p>
     </article>
     <article>
         <h1>About</h1>
-        <p>with 20 years expierence we have a 80% success rate we are among the top companies in out field.</p>
+        <p>With 20 years expierence we have a 80% success rate with our clients.</p>
     </article>
+    <article>
+        <h1>Testamonials</h1>
+            <li>bob</li>
+            <li>sarah</li>
+            <li>tim</li>
+            <li>jane-"Ive been using them for years and have only lost 65% of my money"</li>
+        </h1>
+    </article>   
