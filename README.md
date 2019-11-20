@@ -1,5 +1,4 @@
 # HTML-class
-bulding a webpage in html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +6,7 @@ bulding a webpage in html
     <meta charset="UTF-8">
     <meta name="viewport" contant="width=device-width, initial-
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-   Green Clean
+   #Green Clean
     <head>  
         <header>
             <nav>   
