@@ -35,5 +35,5 @@ bulding a webpage in html
     </article>
     <article>
         <h1>About</h1>
-        <p>whith 20 years expierence we have a 80%</p>
+        <p>with 20 years expierence we have a 80% success rate we are among the top companies in out field.</p>
     </article>
