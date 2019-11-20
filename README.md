@@ -7,16 +7,16 @@ bulding a webpage in html
     <meta charset="UTF-8">
     <meta name="viewport" contant="width=device-width, initial-
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Green Clean</title>
+   Green Clean
     <head>  
         <header>
             <nav>   
                 <ul>
-                    <li><a href="></a>Home</li>
-                    <li><a href="></a>contact</li>
-                    <li><a href="></a>banking</li>
-                    <li><a href="></a>about</li>
-                    <li><a href="></a>testimonials</li>
+                    <li><a href=""></a>Home</li>
+                    <li><a href=""></a>contact</li>
+                    <li><a href=""></a>banking</li>
+                    <li><a href=""></a>about</li>
+                    <li><a href=""></a>testimonials</li>
                 </ul>
             </nav>
         </header>
