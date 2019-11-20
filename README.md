@@ -1,5 +1,4 @@
 # HTML-class
-bulding a webpage in html
 
 <!DOCTYPE html>
 <html lang="en">
