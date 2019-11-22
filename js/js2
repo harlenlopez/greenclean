@@ -1,0 +1,37 @@
+
+var showOrder = function () {
+    var order  = prompt( ‘what would you like to order’);
+    var item ,  quantity;
+    var item = '';
+    
+    while (order !== 'washing’ && order !== ‘laundering’);{
+     
+        order = prompt (‘ please do something different…’);
+    };
+    
+    //ask for the quantity
+
+        quantity = prompt ( ‘how many would you like’);
+
+    //console.log(quantity);
+
+     while( isNaN quantity ) !== 'number'){
+         quantity = prompt ('PLEASE ENTER A NUMERICAL VALUE');
+     }
+
+    //validate the quantity 
+
+    if(order === ‘washing’){
+    item = ‘<imoney pile.jpg>’;
+    
+    }else if ( order === ‘laundering’){
+        Item = ‘<money picture.jpg>’;
+    }
+    return item;
+    //A FOR LOOP
+
+    for(var i = 0; i * 8 = 36,000 <quantity; i = i + 1){
+        items = items + item;
+    }
+    return items;
+};
